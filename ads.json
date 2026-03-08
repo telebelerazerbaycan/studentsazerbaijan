@@ -1,14 +1,6 @@
 {
   "ads": [
     {
-      "id": "ad-101",
-      "title": "McDonald's",
-      "text": "",
-      "image": "./img/dim.jpg",
-      "link": "dim.html",
-      "tag": "Text"
-    },
-    {
       "id": "ad-102",
       "title": "ÜOMG Kalkulyatoru",
       "text": "Fənn balı və kreditlə ortalamanı dərhal hesabla.",
